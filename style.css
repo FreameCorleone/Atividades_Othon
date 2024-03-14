@@ -228,16 +228,13 @@
     }
     
     .space{
-        
         padding: 5%;
-        
     }
 
     @media (max-width: 1215px) {
         .name-job {
             width: 450px;
         }
-        
     }
 
     @media (max-width: 615px) {
